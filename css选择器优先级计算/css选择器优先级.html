@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>css选择器优先级</title>
+    <style>
+        #id span {
+            color: red;
+        }
+
+        div .cl {
+            color: blue;
+        }
+
+        #id span {
+            color: blueviolet;
+        }
+    </style>
+</head>
+<body>
+<div id="id">
+    <span class="cl">啊啊啊</span>
+</div>
+</body>
+</html>
