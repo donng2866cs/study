@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "global": "^4.4.0",
+    "node-inspect": "^2.0.0"
+  }
+}
