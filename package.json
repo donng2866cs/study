@@ -1,6 +1,8 @@
 {
   "dependencies": {
     "global": "^4.4.0",
-    "node-inspect": "^2.0.0"
+    "lodash": "^4.17.20",
+    "node-inspect": "^2.0.0",
+    "ramda": "^0.27.1"
   }
 }
